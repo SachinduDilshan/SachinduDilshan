@@ -11,7 +11,7 @@ Building technology that solves real-world problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SachinduDilshan-181717?style=for-the-badge&logo=github)](https://github.com/SachinduDilshan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SachinduDilshan-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sachindu-dilshan-abeyrathne )
-[![Instagram](https://img.shields.io/badge/Instagram-@your_username-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilshan_abeyrathne)
+[![Instagram](https://img.shields.io/badge/Instagram-@dilshan_abeyrathne-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dilshan_abeyrathne)
 
 </div>
 
