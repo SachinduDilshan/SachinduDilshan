@@ -82,49 +82,6 @@ into practical solutions, and building software that creates value.
 
 ---
 
-## 💻 Featured Projects
-
-### 🎬 FilmFlix — Movie Explorer
-A responsive movie discovery application powered by the TMDb API.
-
-- 🔎 Search movies and explore trending titles
-- 🎯 Filter and browse movies with infinite scrolling
-- 🎥 View movie details and trailers
-- ❤️ Manage favorite movies
-- 🌙 Responsive interface with theme switching
-
-**Tech:** React, JavaScript, Material UI, Axios, Context API
-
-🔗 [Live Demo](https://movie-explorer-ten-theta.vercel.app/)
-
----
-
-### 🧭 Sightseer — AI-Powered Sri Lankan Travel Planner
-A travel planning application designed to help users discover
-destinations and create personalized Sri Lankan itineraries.
-
-- 🗺️ Personalized travel recommendations
-- 🤖 Machine learning-based recommendations
-- 📅 Customized trip planning
-- 📄 Digital itinerary generation
-
-**Tech:** Next.js, React, Python, FastAPI, Firebase, Machine Learning
-
----
-
-### ⚖️ Justice Roll On — Legal Information System
-A software project exploring legal information retrieval and
-AI-assisted analysis of legal scenarios.
-
-- 📚 Structured legal information
-- 🔍 Legal query processing
-- 🤖 Exploration of machine learning-based analysis
-- 🔥 Firebase-powered application functionality
-
-**Tech:** React, Firebase, JavaScript, Machine Learning
-
----
-
 ## 🎯 What I'm Interested In
 
 - Software Engineering & Full-Stack Development
