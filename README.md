@@ -23,7 +23,7 @@ from the University of Bedfordshire, via SLIIT City University.
 My background combines software engineering, business analysis,
 and a strong interest in AI-driven solutions.
 
-- 🎓 BSc (Hons) Computer Science — First Class Honours
+- 🎓 BSc (Hons) Computer Science - First Class Honours
 - 💼 Completed a six-month Business Analyst internship at Webtezza
 - 💻 Interested in full-stack development and scalable software systems
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
@@ -37,37 +37,48 @@ into practical solutions, and building software that creates value.
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Development
+### 🌐 Web & Desktop Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### AI, Machine Learning & Data
+### 🤖 AI, Machine Learning & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Databases & Tools
+### 🗄️ Databases & Development Tools
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Business Analysis
-- Requirements Gathering & Analysis
-- Business and Functional Requirements Documentation
-- User Stories & Process Flows
-- Agile / Scrum
-- Stakeholder Communication
+### 📊 Business Analysis, Design & Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+## 💼 Business Analysis & Project Management
+
+- Requirements Gathering and Analysis
+- Business Requirements Documents (BRDs) & Functional Requirements Documents (FRDs)
+- User Stories, Use Cases & Process Flows
+- Agile / Scrum & Software Development Life Cycle (SDLC)
+- Stakeholder Communication & Client Collaboration
 - User Acceptance Testing (UAT)
-- Figma & Draw.io
+- UI/UX Prototyping & Process Modelling
+- Project Tracking & Task Management
+
+**Tools:** Jira, Trello, Figma, Draw.io
 
 ---
 
