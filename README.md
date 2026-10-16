@@ -99,7 +99,7 @@ into practical solutions, and building software that creates value.
 I'm always open to connecting with developers, technology
 professionals, and people working on interesting projects.
 
-📧 **Email:** sachindudilshan7@gmail.com
+📧 **Email:** sachindud498@gmail.com
 
 💻 **GitHub:** [@SachinduDilshan](https://github.com/SachinduDilshan)
 
